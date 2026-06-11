@@ -1,0 +1,6 @@
+public class Program4 {
+    public static void main(String[] args) {
+        double price = 99.99;
+        System.out.println(price);
+    }
+}
